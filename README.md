@@ -1,6 +1,6 @@
 Crop Yield Prediction Using SARIMAX (2025–2030)
 
-This project focuses on forecasting crop yields using the SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors) model — a powerful time series analysis technique well suited for agricultural data.
+This project focuses on forecasting crop yields using the SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors) model a powerful time series analysis technique well suited for agricultural data.
 
 Objective To predict future yield trends of three key crops in Maharashtra:
 Bajra
